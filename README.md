@@ -1,0 +1,2 @@
+# CHAT-CHIT-App
+Realtime chat app with WebSockets using Node.js, Express, and Socket.io with Vanilla JS on the frontend with a custom UI.
